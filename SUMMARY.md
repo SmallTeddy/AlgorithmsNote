@@ -4,7 +4,7 @@
 
 ## 第一部分 基础知识 <a id="part-1-basic-knowledge"></a>
 
-* [第1章 算法在计算中的作用](part-1-basic-knowledge/part-1-function-of-algorithm-in-calculation.md)
+* [第1章 算法在计算中的作用](part-1-basic-knowledge/chapter-1-function-of-algorithm-in-calculation.md)
 * [第2章 算法基础](part-1-basic-knowledge/chapter-2-algorithm-basis.md)
 * [第3章 函数的增长](part-1-basic-knowledge/chapter-3-growth-of-function.md)
 * [第4章 分治策略](part-1-basic-knowledge/chapter-4-divide-and-conquer-strategy.md)
