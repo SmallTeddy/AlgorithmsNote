@@ -25,3 +25,9 @@
 * [第13章 红黑树](part-3-is-data-structure/di-13-zhang-hong-hei-shu.md)
 * [第14章 数据结构的扩张](part-3-is-data-structure/di-14-zhang-shu-ju-jie-gou-de-kuo-zhang.md)
 
+## 附录：数学基础知识 <a id="appendix-basic-knowledge-of-mathematics"></a>
+
+* [附录A 求和](appendix-basic-knowledge-of-mathematics/appendix-a-summation.md)
+* [附录B 集合等离散数学内容](appendix-basic-knowledge-of-mathematics/appendix-b-sets-and-other-discrete-mathematics.md)
+* [附录C 计数与概率](appendix-basic-knowledge-of-mathematics/appendix-c-count-and-probability.md)
+
