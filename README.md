@@ -1,6 +1,5 @@
 # 目录
 
-* [目录](README.md)
 * [第一部分 基础知识](part-1-basic-knowledge/README.md)
   * [第1章 算法在计算中的作用](part-1-basic-knowledge/chapter-1-function-of-algorithm-in-calculation.md)
   * [第2章 算法基础](part-1-basic-knowledge/chapter-2-algorithm-basis.md)
