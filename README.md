@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序言](./)
+* [序言](README.md)
 
 ## 第一部分 基础知识 <a id="part-1-basic-knowledge"></a>
 

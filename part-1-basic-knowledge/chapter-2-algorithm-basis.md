@@ -6,23 +6,27 @@
 
         ****结构图是指以模块的调用关系为线索，用自上而下的连线表示调用关系并注明参数传递的方向和内容，从宏观上反映软件层次结构的图形。
 
-`INSERTION-SORT(A)`
+\`\`\`
 
-`for j = 2 to A.length`
+INSERTION-SORT\(A\)
 
-  `key = A[j]`
+for j = 2 to A.length
 
-  `// Inset A[j] into the sorted sequence A[1…j-1].`
+  key = A\[j\]
 
-  `i = j - 1`
+  // Inset A\[j\] into the sorted sequence A\[1…j-1\].
 
-  `while i > 0 and A[i] > key`
+  i = j - 1
 
-    `A[i+1] = A[i]`
+  while i &gt; 0 and A\[i\] &gt; key
 
-    `i = i + 1`
+    A\[i+1\] = A\[i\]
 
-  `A[i+1] = key`
+    i = i + 1
+
+  A\[i+1\] = key
+
+\`\`\`
 
 ## 2、分析算法
 
